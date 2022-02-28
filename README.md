@@ -2,7 +2,8 @@
 Nasa Informative allows users to search, discover, and download a treasure trove of more than 140,000 NASA images files from across the agency’s many missions in aeronautics, astrophysics, Earth science, human spaceflight, The website also displays the metadata associated with images. Users can browse the agency’s most recently uploaded files, as well as discover historic images and also images of the day by using NASA API.
 
 View Demo👇: <br />
-https://youthful-shannon-bd97f2.netlify.app/ <br />
+https://youthful-shannon-bd97f2.netlify.app/ <br /> 
+![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
 
 ## Scripts
 
@@ -50,13 +51,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][2]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][3]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][4]
-[<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/64314222/138457332-55cca9c6-5459-4bcf-8dac-f0334b3524b5.png" />][5]
-[<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/64314222/138457891-15c5920f-eac6-4c08-8896-9b0cccb36458.png" />][6]
-[<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/64314222/156026928-7b49ef88-33b0-4f5a-b67d-72adafb33cb6.png" />][7]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
+[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][2]
+[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][3]
+[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][4]
+[<img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/64314222/138457332-55cca9c6-5459-4bcf-8dac-f0334b3524b5.png" />][5]
+[<img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/64314222/138457891-15c5920f-eac6-4c08-8896-9b0cccb36458.png" />][6]
+[<img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/64314222/156026928-7b49ef88-33b0-4f5a-b67d-72adafb33cb6.png" />][7]
+[<img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/64314222/156027725-66aa7fa2-ee01-4a22-b70b-e4aaf7ee4d1b.png" />][8]
 
 <br />
 <br />
@@ -77,6 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 [5]: https://en.wikipedia.org/wiki/HTML
 [6]: https://en.wikipedia.org/wiki/CSS
 [7]: https://reactjs.org/
+[8]: https://en.wikipedia.org/wiki/JavaScript
 ---
 
 <details>

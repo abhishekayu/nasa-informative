@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.Button_Home_Nav {
+    margin-left: 1em;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: rgb(202, 202, 202);
+}
+
+.Navbar {
+    display: flex;
+    justify-content: center;
+    top: -50px;
+    margin-right: 2em;
+    background-color: transparent;
+    color: white;
+    margin-top: -60px;
+}
+
+@media only screen and (max-width: 700px) {
+    .Button_Home_Nav {
+        font-size: 1em;
+        text-decoration: none;
+        color: rgb(202, 202, 202);
+    }
+    .Navbar {
+        display: flex;
+        justify-content: center;
+        top: -80px;
+        background-color: transparent;
+        color: white;
+        margin-top: -10px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .Button_Home_Nav {
+        font-size: 1em;
+        text-decoration: none;
+        color: rgb(202, 202, 202);
+    }
+    .Navbar {
+        display: flex;
+        justify-content: center;
+        top: -80px;
+        margin-left: 4em;
+        background-color: transparent;
+        color: white;
+        margin-top: -30px;
+    }
+}
+
+
+/* ASTRO */

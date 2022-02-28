@@ -1,0 +1,17 @@
+.astro,
+.astro_img,
+.astro_title,
+.astro_des {
+    margin-left: 20px;
+}
+
+.astro,
+.astro_img {
+    width: 300px;
+    border-radius: 30px;
+}
+
+.astro,
+.astro_title {
+    padding-top: 40px;
+}

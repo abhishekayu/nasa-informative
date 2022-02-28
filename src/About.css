@@ -1,0 +1,23 @@
+.hed,
+.adec,
+.desp {
+    margin-left: 10px;
+    padding: 10px;
+    color: rgb(202, 202, 202);
+}
+
+.About_con {
+    padding-top: 100px;
+}
+
+@media only screen and (max-width: 500px) {
+    .About_con {
+        padding-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .About_con {
+        padding-top: 20px;
+    }
+}

@@ -7,7 +7,7 @@ https://youthful-shannon-bd97f2.netlify.app/ <br />
 
 ## Scripts
 
-# In the project directory, you can run:
+In the project directory, you can run:
 
 ### `npm i`
 

@@ -1,5 +1,5 @@
 # nasa-informative
-Nasa Informative allows users to search, discover, and download a treasure trove of more than 140,000 NASA images files from across the agency’s many missions in aeronautics, astrophysics, Earth science, human spaceflight, The website also displays the metadata associated with images. Users can browse the agency’s most recently uploaded files, as well as discover historic images and also images of the day by using NASA API.
+Nasa Informative allows users to search, discover, and download a treasure trove of more than 140,000 NASA images files from across the agency’s many missions in aeronautics, astrophysics, Earth science, human spaceflight, The website also displays the metadata associated with images. Users can browse the agency’s most recently uploaded files, As well as discover historic images and also images of the day by using NASA API.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdarkcoder%2Fnasa-informative&count_bg=%23151C10&title_bg=%23495F3A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

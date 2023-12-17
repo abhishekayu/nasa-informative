@@ -47,7 +47,7 @@
 }
 
 .SearchBarHome:focus {
-    color: rgb(50, 50, 163) !important;
+    color: rgb(255, 255, 255) !important;
     font-weight: 700 !important;
     letter-spacing: 3px;
     transition: all 0.3s ease 0s;

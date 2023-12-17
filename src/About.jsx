@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className='About_con'>
     <div className='hed'>
-    <h3>NASA INFORMATIVE</h3>
+    <h3>NASA INFORMATIVE </h3>
     </div>
 
     <div className='desp'>

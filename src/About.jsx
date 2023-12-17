@@ -13,7 +13,7 @@ export default function About() {
     Users can browse the agency's most recently uploaded files, as well as discover historic images and also image of day.
     -- <a href='https://images.nasa.gov/' target="_blank">Refrance</a> and <a href='https://api.nasa.gov/' target="_blank" >API</a> </p>
     </div>
-    <div className='hed' > <h5>Abhishek Verma</h5></div>
+    <div className='hed' > <h5>Abhishek Verma </h5></div>
 
     <span className='adec'>
     <SocialIcon url="https://www.linkedin.com/in/abhishek-ayu/" />

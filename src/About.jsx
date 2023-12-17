@@ -16,11 +16,11 @@ export default function About() {
     <div className='hed' > <h5>Abhishek Verma</h5></div>
 
     <span className='adec'>
-    <SocialIcon url="https://in.linkedin.com/in/abhishek-verma-2578411bb" />
+    <SocialIcon url="https://www.linkedin.com/in/abhishek-ayu/" />
     </span>
 
     <span className='adec'>
-    <SocialIcon url="https://github.com/imdarkcoder" />
+    <SocialIcon url="https://github.com/abhishekayu" />
     </span>
 
     </div>

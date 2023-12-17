@@ -48,7 +48,7 @@ export default function Home() {
                 }
                 }
             }>
-              Search
+              Explore Universe
             </button></div>
 
             <div className='frame'>
